@@ -3,7 +3,7 @@ Analyzed and applied machine learning models to finding out intrusion in a netwo
 
 This document is adapted from the paper Cost-based Modeling and Evaluation for Data Mining With Application to Fraud and Intrusion Detection: Results from the JAM Project by Salvatore J. Stolfo, Wei Fan, Wenke Lee, Andreas Prodromidis, and Philip K. Chan.
  
- 
+ Dataset link: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 
 INTRUSION DETECTOR LEARNING
 Software to detect network intrusions protects a computer network from unauthorized users, including perhaps insiders.  The intrusion detector learning task is to build a predictive model (i.e. a classifier) capable of distinguishing between ``bad'' connections, called intrusions or attacks, and ``good'' normal connections.
